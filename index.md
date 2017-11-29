@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to the Woah Page.
 
-You can use the [editor on GitHub](https://github.com/dim4ou/woah/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the program @ (to do.) to maintain permission to use it on our server.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Basically, you download it and start it. It will automatically add you to the database and you will have to go back here and create your character.
 
 ### Markdown
 
@@ -28,10 +28,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dim4ou/woah/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the Roleplay? Contact me on discord or email me. You can learn more info here @ (to do) Thanks and good luck!
